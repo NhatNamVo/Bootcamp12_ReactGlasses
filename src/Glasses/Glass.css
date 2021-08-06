@@ -1,0 +1,17 @@
+
+.glassBody {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../assets/image/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Glass_overlay {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(194, 191, 190, 0.63);
+}

@@ -1,0 +1,13 @@
+.productItem {
+    height: 250px;
+    height: 110px;
+    margin: 10px;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+.productItem img {
+    width: 100%;
+    height: 100%;
+}
